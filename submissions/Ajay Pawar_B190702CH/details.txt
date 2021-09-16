@@ -1,0 +1,4 @@
+Name :  Ajay Pawar
+RollNo : B190702CH
+year : Third year
+competition : nlp
